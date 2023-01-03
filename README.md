@@ -10,5 +10,5 @@
 
 - [x] App Todo
 - [ ] App de Login - Autenticão
-- [ ] App de timer - Algo semelhante ao Pomodoro
+- [ ] Timer - Algo semelhante ao Pomodoro
 - [ ] App de Controle de finanças
