@@ -9,6 +9,7 @@
 ## Ideias:
 
 - [x] App Todo
+- [ ] Pokedex
 - [ ] App de Login - Autenticão
 - [ ] Timer - Algo semelhante ao Pomodoro
 - [ ] App de Controle de finanças
