@@ -6,7 +6,7 @@
 
 ---
 
-## Ideias:
+## Ideias de apps:
 
 - [x] App Todo
 - [ ] Pokedex
@@ -14,3 +14,8 @@
 - [ ] Timer - Algo semelhante ao Pomodoro
 - [ ] App de Controle de finanças
 - [ ] App de música
+
+## Estudo:
+
+- [ ] PlanetScale
+- [ ] NextAuth
