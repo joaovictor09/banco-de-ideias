@@ -10,12 +10,17 @@
 
 - [x] App Todo
 - [ ] Pokedex
-- [ ] App de Login - Autenticão
+- [X] App de Login - Autenticão
 - [ ] Timer - Algo semelhante ao Pomodoro
 - [ ] App de Controle de finanças
 - [ ] App de música
+- [ ] Previsão do Tempo
 
 ## Estudo:
 
 - [ ] PlanetScale
 - [ ] NextAuth
+
+## Outros:
+- [ ] Sistema de tradução de idioma
+- [ ] Sistema de Dark/Light Mode
