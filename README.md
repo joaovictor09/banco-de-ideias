@@ -15,6 +15,7 @@
 - [ ] App de Controle de finanças
 - [ ] App de música
 - [ ] Previsão do Tempo
+- [ ] Tela de Login com fundo gerado de forma randômica
 
 ## Estudo:
 
